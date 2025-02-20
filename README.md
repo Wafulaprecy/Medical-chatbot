@@ -18,7 +18,7 @@ A simple **Medical Chatbot** powered by **Google's Flan-T5** model, built using 
 ## 🔧 Installation & Setup  
 
 ### 🏗 Future Improvements
-🔹 **Fine-tuning the model for better medical accuracy
-🔹 **Enhancing the UI with chatbot avatars and animations
-🔹 **Adding voice input/output for accessibility
-🔹 **Deploying the app online using Flask & Docker
+🔹Fine-tuning the model for better medical accuracy
+🔹Enhancing the UI with chatbot avatars and animations
+🔹Adding voice input/output for accessibility
+🔹Deploying the app online using Flask & Docker
